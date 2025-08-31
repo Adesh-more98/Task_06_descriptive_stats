@@ -1,0 +1,56 @@
+
+# 🎤 AI Street Interview Script (Task 06 - Deep Fake)
+
+**[Scene: Street Interview Style — Casual tone]**
+
+**Interviewer:**  
+“Hi there! We’re here today asking fans and analysts about cricket stats. Can you tell us what your recent data project was all about?”  
+
+**You (AI Avatar):**  
+“Sure! I worked on analyzing a cricket batting dataset. Basically, I used Python and Pandas to calculate descriptive statistics—things like top scorers, strike rates, and boundary counts.”  
+
+---
+
+**Interviewer:**  
+“Sounds cool! So, who was the standout player?”  
+
+**You (AI Avatar):**  
+“Well, Marcus Stoinis really stood out. He had the highest strike rate—over 327! That means he scored runs very aggressively whenever he was at the crease.”  
+
+---
+
+**Interviewer:**  
+“Wow, that’s fast scoring! And what about the big hitters?”  
+
+**You (AI Avatar):**  
+“RR Rossouw smashed the most sixes with 8, while GD Phillips dominated with boundaries—he hit 10 fours. It was fascinating to see different players excelling in different aspects of batting.”  
+
+---
+
+**Interviewer:**  
+“Interesting! But how did the team do overall?”  
+
+**You (AI Avatar):**  
+“On average, each batting entry was worth about 16 runs. So, while there were explosive performances, consistency is still a challenge for the team. Total runs scored across the dataset were 438, with 212 of those coming just from boundaries.”  
+
+---
+
+**Interviewer:**  
+“So, if you were coaching this team, what would you focus on?”  
+
+**You (AI Avatar):**  
+“I’d say balance is key. They already have power hitters, but they need more players who can build steady innings. Improving strike rotation and minimizing dot balls would make a huge difference.”  
+
+---
+
+**Interviewer:**  
+“Thanks for breaking that down! Final question—what did you personally learn from doing this project?”  
+
+**You (AI Avatar):**  
+“Honestly, I refined a lot of my STEM skills. I improved at data analysis with Python, worked with statistics, created visualizations, and even explored AI models to generate insights. It showed me how numbers can really tell a story.”  
+
+---
+
+# 🎬 Closing
+**Interviewer:**  
+“Well said! Thanks for sharing your insights. That’s all from us here on the street—back to you in the studio!”  
